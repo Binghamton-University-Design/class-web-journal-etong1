@@ -3,7 +3,7 @@
   --background-color: #ffffff;
   --link-color: #E2E3E3;
   --alt-link-color: #111;
-  --body-color: #111111;
+  --body-color: #ADD8E6;
   --light-grey: #A9AAAA;
   --lighter-grey: #C6C7C6;
   --lightest-grey: #E2E3E3;
@@ -15,9 +15,9 @@ html {
 
 body {
     background-color: var(--background-color);
-    text-align: left;
+    text-align: center;
     margin: 0;
-    color: var(--body-color);
+    color: #ADD8E6;
     font-family: 'Playfair Display', sans-serif;
     font-size: 12px;
     line-height: 1.6;
@@ -27,6 +27,7 @@ body {
 }
 
 .wrapper {
+   background-color: ;
     position: relative;
     max-width: 1280px;
     margin: 0 auto;

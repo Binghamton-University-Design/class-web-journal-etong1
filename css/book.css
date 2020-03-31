@@ -1,9 +1,14 @@
-.grid {
-	grid-gap: 1em;
-	margin: 0 0 2em 0;
+.wrapper {
+    max-width: 600px;
+   
 }
+	.grid {
+				background-color: #000
+				grid-gap: 1em;
+				margin: 0 0 2em 0;
+	}
 .grid div {
-	background-color:rgba(0,0,0,0.1);
+	/*background-color:rgba(0,0,0,0.1);*/
 }
 
 .nice-image {
@@ -37,4 +42,9 @@
 
 .book-credits {
 	margin-left: 1em;
+}
+
+.book .width-12-12 {
+	background-color: #ffffff;
+	color:#ADD8E6;
 }
